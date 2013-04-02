@@ -12,7 +12,8 @@ Gem::Specification.new do |gem|
   gem.homepage = 'https://github.com/nateleavitt/infusionsoft'
   gem.require_paths = ['lib']
   gem.required_rubygems_version = Gem::Requirement.new('>= 1.3.6')
-
   gem.version = Infusionsoft::VERSION.dup
+  
+  
 end
 
